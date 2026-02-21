@@ -269,14 +269,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ---
 
-## 🙏 Acknowledgments
 
-- LTIMindtree Internship Program
-- KLE Technological University
-- TensorFlow and Keras communities
-- NLTK documentation
-
----
 
 ## ⭐ Star this Project!
 
